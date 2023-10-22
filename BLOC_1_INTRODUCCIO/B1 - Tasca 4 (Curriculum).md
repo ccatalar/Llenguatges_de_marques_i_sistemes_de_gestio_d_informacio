@@ -47,7 +47,7 @@ Informática_”
 
 1.  ***Fundamentos de Fortran V***.  Alberto Prieto Espinosa, Secretariado de Publicaciones de la  Univ. de Granada, Dp. Legal. Gr. 418. 1982.
 2.  ***Introducción  a  la  informática*** (1ª  Edición); Prieto  Espinosa,  Alberto ; Lloris  Ruiz,  Antonio ; Torres Cantero, Juan Carlos; McGraw-Hill / Interamericana de España, S.A.  ISBN: 84-7615-367-8 ; 978-84-7615-367-3 (500 p. ; 16x23 cm), 1989. 
-3.   [***Diseño lógico***](https://www.cervantes.com/libro/9788448106461/diseno-logico/); Lloris Ruiz, Antonio; Alberto Prieto Espinosa; McGraw-Hill / Interamericana de España, S.A. ISBN: 84-481-0646-6 ; 978-84-481-0646-1 (450 p. ; 24x19 cm), 1996  
+3.  ***Diseño lógico***; Lloris Ruiz, Antonio; Alberto Prieto Espinosa; McGraw-Hill / Interamericana de España, S.A. ISBN: 84-481-0646-6 ; 978-84-481-0646-1 (450 p. ; 24x19 cm), 1996  
 4.   ***Arquitectura de computadores*** ; Ortega Lopera, Julio; Anguita López, Mancia; Prieto   Espinosa, Alberto; Thomson Paraninfo, S.A.; ISBN: 84-9732-274-6 ; 978-84-9732-274-4;  (672 p. ; 26x20 cm) 2005.
 
 ## Organización de cursos
