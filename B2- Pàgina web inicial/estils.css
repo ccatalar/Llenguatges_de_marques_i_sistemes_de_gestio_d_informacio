@@ -1,0 +1,90 @@
+*{
+    background-color: rgb(9, 40, 5);
+    margin: 1,5px;
+    font-size: 15px;
+    align-items: flex-start;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+h1{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 35px;
+ color: rgb(202, 1, 1);
+ text-align: center;
+
+}
+
+h2{
+
+    color: rgb(159, 83, 83);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+h3{
+
+    color:rgb(215, 115, 115);
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.classe1{
+
+    margin: 10px;
+    background-color: black;
+    padding: 20px;
+    background-clip: padding-box;
+    border-radius: 5px;
+    al
+    
+}
+
+#id_1{
+    font-style: oblique;
+    font-size: 13px;
+    color: aqua;
+}
+
+img {
+    display: block;
+    width: 750px; 
+    padding: 60px;
+    margin: auto;
+  }
+
+
+
+table, tr, td, th {
+    border:solid rgb(31, 100, 204);
+    border-collapse: collapse;
+    border-width: 2px;
+    text-align: center;
+    height: 40px;
+    width: 250px;
+    
+  }
+  
+
+  a:hover{
+
+    color: rgb(211, 136, 226);
+
+
+  }
+
+  [target="_blank"]{
+
+    color: rgb(207, 30, 198);
+}
+
+
+video{
+
+    width: 740;
+    height: 460px; 
+
+}
