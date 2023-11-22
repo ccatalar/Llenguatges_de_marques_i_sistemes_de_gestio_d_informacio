@@ -1,1 +1,0 @@
-echo "# Llenguatges_de_marques_i_sistemes_de_gestio_d_informacio"
